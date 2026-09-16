@@ -1,16 +1,95 @@
-## Hi there 👋
+# ✦ Hi, I'm Alfiya! 🌸
 
-<!--
-**ansarialfiya-ux/ansarialfiya-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 🎐 BCA Student • Developer • Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=750&lines=Exploring+AI+%F0%9F%A4%96;Building+with+Educational+Technology+%F0%9F%8E%93;Exploring+Cybersecurity+%F0%9F%94%90;Learning+C%23+%26+.NET+%F0%9F%92%BB;Creating+solutions+to+real-world+problems+%E2%9C%A8" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alfiya-aiman-ansari)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfiaaiman/)
+[![Email](https://img.shields.io/badge/Email-Contact-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansarialfiya097@gmail.com)
+
+</div>
+
+---
+
+## 🌸 My Lore
+
+I'm a BCA student who enjoys exploring technology, solving real-world problems, and turning ideas into practical solutions.
+
+My journey has taken me through **software development, AI, cybersecurity, educational technology, and teaching** — and I'm still discovering where the next arc takes me.
+
+---
+
+## 🎮 Current Arc
+
+- 💻 Learning **C# & .NET**
+- 🤖 Exploring **Artificial Intelligence**
+- 🔐 Exploring **Cybersecurity**
+- 🎓 Working with ideas around **Educational Technology**
+- 🧩 Improving my **problem-solving & development skills**
+- 🚀 Building projects and learning through hands-on experience
+
+---
+
+## ⚔️ My Skill Tree
+
+### 💻 Programming
+
+`C++` `Java` `C#`
+
+### 🧠 Core Concepts
+
+`OOP` `Basic DSA` `Problem Solving`
+
+### 🌐 Technology Interests
+
+`AI` `Cybersecurity` `Software Development` `Educational Technology`
+
+### 🎨 Creative Tools
+
+`Canva` `CapCut` `Blender`
+
+---
+
+## ✨ What I Like Building
+
+I enjoy working on ideas that combine **technology + creativity + practical problem solving**.
+
+- 🤖 AI-powered ideas and applications
+- 🔐 Cybersecurity awareness and solutions
+- 💻 Software that solves practical problems
+- 🎓 Educational technology and learning solutions
+- 🎨 Creative technology projects
+- 🧩 Projects that turn an idea into something usable
+
+---
+
+## 📖 A Little More About Me
+
+- 🎤 I enjoy teaching and communicating ideas
+- 🧠 I like understanding **how things work**, not just memorizing them
+- 🛠️ I enjoy turning ideas into something tangible
+- 🌱 Always learning something new
+- 💭 I can spend way too long thinking about an idea before actually building it
+- ☕ Probably debugging something right now
+- 🎬 I like experimenting with creative tools and visual content
+
+---
+
+## 🌱 The Journey So Far
+
+**BCA → Teaching → Technology → Development → AI & Cybersecurity**
+
+Still learning. Still experimenting. Still figuring out the next chapter.
+
+---
+
+<div align="center">
+
+### 🌸 `Keep learning. Keep building. Keep exploring.`
+
+</div>
