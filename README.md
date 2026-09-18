@@ -109,16 +109,6 @@ Exploring how technology can improve learning and teaching.
 
 ---
 
-## PROJECTS
-
-### Cybersecurity Awareness Project
-
-Community engagement project focused on cybersecurity awareness and understanding common cybercrime techniques.
-
-Digital Arrest Investment Scams Link Fraud SIM Safety
-
----
-
 ## GITHUB ACTIVITY
 
 <div align="center">
