@@ -53,40 +53,6 @@ My journey has taken me through **software development, AI, cybersecurity, educa
 
 `Canva` `CapCut` `Blender`
 
----
-
-## ✨ What I Like Building
-
-I enjoy working on ideas that combine **technology + creativity + practical problem solving**.
-
-- 🤖 AI-powered ideas and applications
-- 🔐 Cybersecurity awareness and solutions
-- 💻 Software that solves practical problems
-- 🎓 Educational technology and learning solutions
-- 🎨 Creative technology projects
-- 🧩 Projects that turn an idea into something usable
-
----
-
-## 📖 A Little More About Me
-
-- 🎤 I enjoy teaching and communicating ideas
-- 🧠 I like understanding **how things work**, not just memorizing them
-- 🛠️ I enjoy turning ideas into something tangible
-- 🌱 Always learning something new
-- 💭 I can spend way too long thinking about an idea before actually building it
-- ☕ Probably debugging something right now
-- 🎬 I like experimenting with creative tools and visual content
-
----
-
-## 🌱 The Journey So Far
-
-**BCA → Teaching → Technology → Development → AI & Cybersecurity**
-
-Still learning. Still experimenting. Still figuring out the next chapter.
-
----
 
 <div align="center">
 
