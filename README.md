@@ -21,14 +21,8 @@
 I'm a **BCA student** who enjoys exploring technology, solving real-world problems,
 and turning ideas into practical solutions.
 
-My journey has taken me through **software development, AI, cybersecurity,
-educational technology, and teaching** — and I'm always exploring what comes next.
-
 - 🎓 BCA student at **Shri Ram Institute of Technology, Jabalpur**
-- 💻 Comfortable with **C++ and Java**
-- 🚀 Currently learning **C# & .NET**
-- 🤖 Exploring **Artificial Intelligence**
-- 🔐 Exploring **Cybersecurity**
+- 🤖 Exploring **Artificial Intelligence** and **Cybersecurity**
 - 🎓 Interested in **Educational Technology**
 - 🧩 Learning through hands-on projects and experimentation
 
