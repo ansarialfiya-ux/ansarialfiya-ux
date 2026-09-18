@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Hi, I'm Alfiya Ansari
+# ✦ Hi, I'm Alfiya 
 
 ### BCA Student • Developer • AI & Cybersecurity Explorer
 
@@ -75,17 +75,4 @@ educational technology, and teaching** — and I'm always exploring what comes n
 
 ---
 
-# 🌌 Currently Exploring
 
-```text
-Artificial Intelligence
-        ↓
-Cybersecurity
-        ↓
-Software Development
-        ↓
-Educational Technology
-        ↓
-C# & .NET
-        ↓
-Building → Learning → Improving
